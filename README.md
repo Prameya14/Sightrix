@@ -1,21 +1,23 @@
-# SIGHTRIX: Pioneering Accessibility
+# SIGHTRIX: Pioneering Accessibility 🌟
 
 **Authors:** Upasana Pradhan and Prameya Mohanty  
 **Affiliation:** Delhi Public School, Rourkela  
 
-## Summary
+## Summary 📝
 
 Sightrix is a virtual assistant designed to assist individuals with visual impairments in controlling their computer systems using voice commands. Its goal is to enhance their productivity, independence, and access to technology.
 
 ---
 
-## Sightrix – Project Synopsis
+# Sightrix – Project Synopsis 🚀
 
-### Overview
+## Overview ℹ️
 
 Sightrix is a social impact AI project aimed at providing visually impaired individuals with an intuitive virtual assistant capable of controlling their computer systems through voice commands. The project aims to enhance the independence and accessibility of technology for visually impaired individuals, allowing them to seamlessly control their computer systems and perform daily tasks with ease.
 
-### Problem Statement
+---
+
+## Problem Statement ❗️
 
 Individuals with visual impairments encounter numerous challenges when using computer systems, impacting their productivity and independence. While screen readers provide some assistance, they still require keyboard and mouse inputs, which can be a barrier for individuals with visual impairments.
 
@@ -23,7 +25,9 @@ A potential solution is a virtual assistant that can control computer systems th
 
 However, the current virtual assistant technologies may not provide the necessary features and functions required by individuals with visual impairments, hindering their productivity, independence, and access to technology. With the development of a virtual assistant tailored to the specific needs of the visually impaired, these individuals could enjoy greater productivity and independence when using computers.
 
-### Solution Statement
+---
+
+## Solution Statement ✔️
 
 The solution to the challenges faced by visually impaired individuals when using computer systems is the development of an innovative virtual assistant such as “Sightrix”.
 
@@ -31,7 +35,9 @@ Sightrix utilizes advanced voice command technology, enabling users to control t
 
 By removing the barriers to using computers faced by the visually impaired, Sightrix could significantly improve their ability to work, learn, and communicate through digital means. With the successful development and implementation of Sightrix, visually impaired individuals could enjoy a more accessible and user-friendly computer experience, empowering them to realize their full potential in the digital age.
 
-### SDGs Impacted
+---
+
+## SDGs Impacted 🌍
 
 This project could come under several SDGs (Sustainable Development Goals), including:
 
@@ -43,17 +49,19 @@ This project could come under several SDGs (Sustainable Development Goals), incl
 
 ✓ **SDG 9: Industry, Innovation, and Infrastructure** - Sightrix represents an innovative solution that could improve the infrastructure of digital technology and promote greater inclusivity and accessibility for all individuals.
 
-### AI-powered Sightrix
+---
 
-#### Computer Vision (CV)
+## AI-powered Sightrix 🤖
+
+### Computer Vision (CV)
 Sightrix incorporates Computer Vision (CV) technology for face unlock functionality, as this could provide a secure and convenient way for visually impaired users to access their devices. CV involves using algorithms and models to enable computers to interpret and analyze visual data, such as images or video streams. By using CV for face unlock, Sightrix could potentially allow visually impaired users to unlock their devices simply by looking at the screen, without the need for passwords or other security measures that may be difficult for them to use.
 
-#### Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 Sightrix performs the tasks based on some particular conditions. However, it can use NLP concepts to enable voice-based control for visually impaired users. With NLP, the virtual assistant can process and interpret spoken commands from users, allowing them to control various aspects of their device or access information hands-free. NLP techniques such as speech recognition, natural language understanding, and sentiment analysis can help improve the accuracy and responsiveness of the virtual assistant over time, as it learns from user interactions and feedback. Additionally, NLP can be used to develop customized commands and shortcuts for specific tasks, further enhancing the productivity and independence of visually impaired users.
 
 ---
 
-## How does it work?
+## How does it work? 🛠
 
 The Sightrix Virtual Assistant leverages multiple libraries and technologies to provide enhanced accessibility and user experience for visually impaired users.
 
@@ -67,7 +75,7 @@ Overall, the Sightrix Virtual Assistant combines a range of AI and software tech
 
 ---
 
-## Libraries Used
+## Libraries Used 📚
 
 - **OS**: Open and Close Applications, Play Music, Check Contents of a Directory, Hide Files in a Directory, Shut Down, Sleep or Restart the System
 - **Socket**: Fetch IP Address of Network
@@ -86,7 +94,7 @@ Overall, the Sightrix Virtual Assistant combines a range of AI and software tech
 
 ---
 
-## Stakeholders of the Application
+## Stakeholders of the Application 👥
 
 - **Visually Impaired Users**: The primary stakeholders of the project are visually impaired individuals who stand to benefit from the increased accessibility and user experience offered by the virtual assistant.
 - **Developers**: The developers who are responsible for building and maintaining the software are also key stakeholders, as they will be directly impacted by the success or failure of the project.
@@ -96,7 +104,7 @@ Overall, the Sightrix Virtual Assistant combines a range of AI and software tech
 
 ---
 
-## Ethical and Privacy Concerns
+## Ethical and Privacy Concerns 👁️‍🗨️
 
 The use of facial recognition technology raises ethical and privacy concerns. One of the primary concerns is the potential for misuse of the technology, which could result in the violation of individual rights to privacy. There is also a risk of misidentification, particularly if the technology is used in law enforcement or security settings.
 
@@ -104,7 +112,7 @@ Additionally, the collection and storage of facial recognition data can also rai
 
 ---
 
-## Future Scope
+## Future Scope 🚀
 
 Sightrix has the potential to make a significant impact on the lives of visually impaired individuals. In the future, it can be further developed to incorporate more features and improve its accuracy and efficiency.
 
