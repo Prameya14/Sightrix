@@ -174,7 +174,7 @@ class MainThread(QThread):
                 id, accuracy = recognizer.predict(converted_image[y : y + h, x : x + w])
                 if accuracy < 100:
                     print(id)
-                    id = names[id-1]
+                    id = names[id - 1]
                     accuracy = "  {0}%".format(round(100 - accuracy))
                     pyautogui.press("esc")
                     speak("Verification Successful!")

@@ -31,7 +31,7 @@ while True:
     k = cv2.waitKey(100) & 0xFF
     if k == 27:
         break
-    elif count >= 200:
+    elif count > 100:
         break
 
 print("Completed Taking Samples!")
