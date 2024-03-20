@@ -92,7 +92,7 @@ def send_email(to, subject, body):
 
 # Function 4: To send meeting link to employees
 def send_meeting_link(to, subject, body):
-    content = body + "\nOnline Meeting Link: https://meet.google.com/vzk-defd-kzk"
+    content = body + "\nOnline Meeting Link: https://meet.google.com/faw-itnv-nob"
     email_user = "prameyamohanty14@gmail.com"
     email_password = "wdzgvgjckxincrpq"
     email_send = to
